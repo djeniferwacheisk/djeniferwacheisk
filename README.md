@@ -10,28 +10,24 @@
 
 ---
 
-<div align="center">
-  <samp>
-    <b>
-      Você pode me encontrɑr ɑqui!🌷:
-    </b>
-  </samp>
-  <br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
   <br>
 
+#### Você pode me encontrɑr ɑqui!🌷:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/whydjeni/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://github.com/djeniferwacheisk)
 
 ---
 
-<div align="center">
-  <samp>
-    <b>
-      Stɑtistics🌷: 🌷:
-    </b>
-  </samp>
-  <br>
-  <br>
+#### Stɑtistics🌷: 🌷:
 
 <div align="center">
   <img
@@ -65,14 +61,8 @@
 
 ---
 
-<div align="center">
-  <samp>
-    <b>
-     Technologies 🌷:
-    </b>
-  </samp>
-  <br>
-  <br>
+
+#### Technologies 🌷:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
