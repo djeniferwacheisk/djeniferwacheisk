@@ -27,7 +27,7 @@
 
 ---
 
-#### Stɑtistics🌷: 🌷:
+#### Stɑtistics🌷:
 
 <div align="center">
   <img
